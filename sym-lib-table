@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Tympan_AIC_Shield)(type Legacy)(uri ${KIPRJMOD}/Library/Tympan_AIC_Shield.lib)(options "")(descr ""))
+  (lib (name Tympan_AIC_Shield-rescue)(type Legacy)(uri ${KIPRJMOD}/Tympan_AIC_Shield-rescue.lib)(options "")(descr ""))
+)
